@@ -1,0 +1,6 @@
+Z:\Programmierung\VisualStudio\App\Test_Konsole\Test_Konsole\bin\Debug\Test_Konsole.exe.config
+Z:\Programmierung\VisualStudio\App\Test_Konsole\Test_Konsole\bin\Debug\Test_Konsole.exe
+Z:\Programmierung\VisualStudio\App\Test_Konsole\Test_Konsole\bin\Debug\Test_Konsole.pdb
+Z:\Programmierung\VisualStudio\App\Test_Konsole\Test_Konsole\obj\Debug\Test_Konsole.csprojResolveAssemblyReference.cache
+Z:\Programmierung\VisualStudio\App\Test_Konsole\Test_Konsole\obj\Debug\Test_Konsole.exe
+Z:\Programmierung\VisualStudio\App\Test_Konsole\Test_Konsole\obj\Debug\Test_Konsole.pdb
